@@ -1,0 +1,37 @@
+log.txt
+../../.ICEauthority
+../../.PyCharm2016.1/
+../../.Xauthority
+../../.atom/
+../../.bash_history
+../../.bash_logout
+../../.bashrc
+../../.cache/
+        ../../.config/
+        ../../.dbus/
+        ../../.gconf/
+        ../../.gitconfig
+        ../../.gksu.lock
+        ../../.gnome/
+        ../../.java/
+        ../../.local/
+        ../../.mozilla/
+        ../../.netsurf/
+        ../../.node_repl_history
+        ../../.npm-global/
+        ../../.npm/
+        ../../.npmrc
+        ../../.oracle_jre_usage/
+        ../../.pip/
+        ../../.pki/
+        ../../.profile
+        ../../.python_history
+        ../../.thumbnails/
+        ../../.vscode/
+        ../../.xscreensaver
+        ../../Downloads/
+        ../../PycharmProjects/
+        ../../hello/
+        ../../tweet_grabber/
+        ../.vscode/
+        ../demoApp/
